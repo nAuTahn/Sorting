@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647434394 source:c:\codeblockstore\dsa\main.cpp
+	<bits/stdc++.h>
+	"quicksort.h"
+	"heapsort.h"
+	"mergesort.h"
+
+1647434477 c:\codeblockstore\dsa\quicksort.h
+
+1647434373 c:\codeblockstore\dsa\heapsort.h
+
+1647434426 c:\codeblockstore\dsa\mergesort.h
+
